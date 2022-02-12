@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{63F2F806-C816-26E6-DA89-CBDCFE8B958D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CardController.cs" Line="27" Column="48" IsPinned="True" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="72" Column="6" />
+      <File FileName="Assets/Scripts/DropPlace.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a8006105-61f0-4392-9dd4-cc9a7696857c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

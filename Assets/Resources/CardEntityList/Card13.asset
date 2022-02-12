@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 749bf6f2fa52d495db1f79228b3e6715, type: 3}
+  m_Name: Card13
+  m_EditorClassIdentifier: 
+  name: "\u30B4\u30EA\u30E9"
+  hp: 7
+  at: 6
+  cost: 5
+  icon: {fileID: 21300000, guid: d7a2b3775642041c3ba8a583c4f0404b, type: 3}
+  bg: {fileID: 21300000, guid: 7a2858ab4516843259e53de7d64baa4a, type: 3}
+  ability: 1
+  spell: 0
