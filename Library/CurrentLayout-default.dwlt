@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 160
+    x: -205
     y: -1027
     width: 1405
     height: 1027
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 62
+  controlID: 38
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 61
+  controlID: 37
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -204,7 +204,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 60
+  controlID: 36
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,8 +245,8 @@ MonoBehaviour:
     y: 0
     width: 825
     height: 644
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 16}
@@ -324,7 +324,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1194
+    x: 829
     y: -997
     width: 370
     height: 956
@@ -361,7 +361,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 160
+    x: -205
     y: -353
     width: 1033
     height: 312
@@ -379,22 +379,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/saki/CardGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 44}
-    m_SelectedIDs: bc450000
-    m_LastClickedID: 17852
-    m_ExpandedIDs: 00000000bc450000be450000c0450000c2450000c4450000c6450000c845000000ca9a3b
+    scrollPos: {x: 0, y: 28}
+    m_SelectedIDs: ca450000
+    m_LastClickedID: 17866
+    m_ExpandedIDs: 00000000b0450000b2450000b4450000b6450000b8450000ba450000c245000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -422,7 +422,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000bc450000be450000c0450000c2450000c4450000c6450000c8450000
+    m_ExpandedIDs: 00000000b0450000b2450000b4450000b6450000b8450000ba450000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -498,7 +498,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 369
+    x: 4
     y: -997
     width: 823
     height: 623
@@ -534,7 +534,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 0
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -547,7 +547,7 @@ MonoBehaviour:
       y: 21
       width: 823
       height: 602
-    m_Scale: {x: 0.7838542, y: 0.7838542}
+    m_Scale: {x: 0.80371094, y: 0.80371094}
     m_Translation: {x: 411.5, y: 301}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -555,12 +555,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -524.9701
-      y: -384
-      width: 1049.9402
-      height: 768
+      x: -512
+      y: -374.51276
+      width: 1024
+      height: 749.0255
     m_MinimalGUI: 1
-  m_defaultScale: 0.7838542
+  m_defaultScale: 0.80371094
   m_LastWindowPixelSize: {x: 823, y: 623}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -703,7 +703,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 160
+    x: -205
     y: -997
     width: 208
     height: 623
@@ -711,9 +711,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d4450000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 24d6ffff64fbffff04430000224300006a43000006440000104400002c44000044440000744400008e440000
+      m_SelectedIDs: e6430000
+      m_LastClickedID: 17382
+      m_ExpandedIDs: 64fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
